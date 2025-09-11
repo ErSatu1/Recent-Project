@@ -1,0 +1,21 @@
+Full Evaluation Report for model: Oneloop-5K-Conv1DDense-Preprocessing[Yeo]X and Y-2layer dense+less wider[conv]
+========================================
+
+--- Training Set Metrics ---
+MSE: 0.00056385
+MAE: 0.01160847
+R² Score: 0.9860
+
+--- Validation Set Metrics ---
+MSE: 0.00450498
+MAE: 0.01953122
+R² Score: 0.8779
+
+--- Test Set Metrics ---
+MSE: 0.00085067
+MAE: 0.01425634
+R² Score: 0.9770
+--- Test 100k Data Set Metrics ---
+MSE: 0.00098664
+MAE: 0.01266553
+R² Score: 0.9750
